@@ -104,12 +104,12 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## 📸 Screenshots
 
-![Medal Tally](dataset\demo_img\Screenshot_1.png)
-![Overall Analysis](dataset\demo_img\Screenshot_2.png)
-![Country-wise Analysis](dataset\demo_img\Screenshot_3.png)
-![Athlete-wise Analysis](dataset\demo_img\Screenshot_4.png)
-![Athlete-wise Analysis](dataset\demo_img\Screenshot_5.png)
-![Athlete-wise Analysis](dataset\demo_img\Screenshot_6.png)
+![Medal Tally](dataset/demo_img/Screenshot_1.png)
+![Overall Analysis](dataset/demo_img/Screenshot_2.png)
+![Country-wise Analysis](dataset/demo_img/Screenshot_3.png)
+![Athlete-wise Analysis](dataset/demo_img/Screenshot_4.png)
+![Athlete-wise Analysis](dataset/demo_img/Screenshot_5.png)
+![Athlete-wise Analysis](dataset/demo_img/Screenshot_6.png)
 
 
 ---
